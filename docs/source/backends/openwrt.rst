@@ -280,7 +280,7 @@ also supports the following custom options:
 | ``timezone``      | string  | one of the `allowed timezone values`_ (first element of each tuple) |
 +-------------------+---------+---------------------------------------------------------------------+
 
-.. _allowed timezone values: https://github.com/openwisp/netjsonconfig/blob/master/netjsonconfig/backends/openwrt/timezones.py
+.. _allowed timezone values: https://github.com/burlesquer/netjsonconfig/blob/master/netjsonconfig/backends/openwrt/timezones.py
 
 General settings example
 ~~~~~~~~~~~~~~~~~~~~~~~~

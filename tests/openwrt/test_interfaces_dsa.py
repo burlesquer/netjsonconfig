@@ -1862,7 +1862,7 @@ config interface 'eth0'
 
     def test_interface_disabled_bug(self):
         """
-        see https://github.com/openwisp/netjsonconfig/issues/57
+        see https://github.com/burlesquer/netjsonconfig/issues/57
         """
         o = OpenWrt(
             {"interfaces": [{"type": "ethernet", "name": "eth0", "disabled": False}]}

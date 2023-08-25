@@ -118,7 +118,7 @@ class Interfaces(OpenWrtConverter):
             static.update(self.__intermediate_address(address))
         if static:
             # do not use CIDR notation when using a single ipv4
-            # see https://github.com/openwisp/netjsonconfig/issues/54
+            # see https://github.com/burlesquer/netjsonconfig/issues/54
             if len(static.get('ipaddr', [])) == 1:
                 network = ip_interface(static['ipaddr'][0])
                 static['ipaddr'] = str(network.ip)

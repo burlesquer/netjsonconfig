@@ -16,7 +16,7 @@ Goals
 -----
 
 The main goal of this library is to replace the configuration generation feature
-that is shipped in `OpenWISP Manager <https://github.com/openwisp/OpenWISP-Manager>`_.
+that is shipped in `OpenWISP Manager <https://github.com/burlesquer/OpenWISP-Manager>`_.
 
 We have learned a lot from *OpenWISP Manager*, one of the most important lessons we learned
 is that the configuration generation feature must be a library decoupled from web framework

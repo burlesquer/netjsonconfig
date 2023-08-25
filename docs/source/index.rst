@@ -2,8 +2,8 @@
 netjsonconfig
 =============
 
-.. image:: https://github.com/openwisp/netjsonconfig/workflows/Netjsonconfig%20CI%20Build/badge.svg?branch=master
-   :target: https://github.com/openwisp/netjsonconfig/actions?query=workflow%3A%22Netjsonconfig+CI+Build%22
+.. image:: https://github.com/burlesquer/netjsonconfig/workflows/Netjsonconfig%20CI%20Build/badge.svg?branch=master
+   :target: https://github.com/burlesquer/netjsonconfig/actions?query=workflow%3A%22Netjsonconfig+CI+Build%22
 
 .. image:: https://coveralls.io/repos/openwisp/netjsonconfig/badge.svg
    :target: https://coveralls.io/r/openwisp/netjsonconfig
@@ -19,7 +19,7 @@ netjsonconfig
    :target: https://gitter.im/openwisp/general
 
 Netjsonconfig is part of the `OpenWISP project <http://openwrt.org>`_ and it's the official
-configuration engine of `OpenWISP 2 <https://github.com/openwisp/ansible-openwisp2>`_.
+configuration engine of `OpenWISP 2 <https://github.com/burlesquer/ansible-openwisp2>`_.
 
 .. image:: ./images/openwisp.org.svg
   :target: http://openwisp.org
@@ -27,12 +27,12 @@ configuration engine of `OpenWISP 2 <https://github.com/openwisp/ansible-openwis
 **netjsonconfig** is a python library that converts `NetJSON <http://netjson.org>`_
 *DeviceConfiguration* objects into real router configurations that can be installed
 on systems like `OpenWRT <http://openwrt.org>`_, `LEDE <https://www.lede-project.org/>`_
-or `OpenWisp Firmware <https://github.com/openwisp/OpenWISP-Firmware>`_.
+or `OpenWisp Firmware <https://github.com/burlesquer/OpenWISP-Firmware>`_.
 
 Its main features are:
 
     * `OpenWRT <http://openwrt.org>`_ / `LEDE <https://www.lede-project.org/>`_ support
-    * `OpenWisp Firmware <https://github.com/openwisp/OpenWISP-Firmware>`_ support
+    * `OpenWisp Firmware <https://github.com/burlesquer/OpenWISP-Firmware>`_ support
     * `OpenVPN <https://openvpn.net>`_ support
     * `Wireguard <https://www.wireguard.com/>`_ support
     * Plugin interface for external backends, support more firmwares with an external package

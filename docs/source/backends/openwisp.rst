@@ -31,7 +31,7 @@ The ``hostname`` attribute in the ``general`` key is **required**.
 Traffic Control
 ---------------
 
-For backward compatibility with `OpenWISP Manager <https://github.com/openwisp/OpenWISP-Manager>`_
+For backward compatibility with `OpenWISP Manager <https://github.com/burlesquer/OpenWISP-Manager>`_
 the schema of the ``OpenWisp`` backend allows to define a ``tc_options`` section that will
 be used to generate ``tc_script.sh``.
 

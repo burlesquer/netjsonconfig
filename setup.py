@@ -59,7 +59,7 @@ setup(
     author_email='federico.capoano@gmail.com',
     license='GPL3',
     url='http://netjsonconfig.openwisp.org',
-    download_url='https://github.com/openwisp/netjsonconfig/releases',
+    download_url='https://github.com/burlesquer/netjsonconfig/releases',
     keywords=['openwrt', 'openwisp', 'netjson', 'networking'],
     packages=find_packages(exclude=['tests*', 'docs*']),
     include_package_data=True,

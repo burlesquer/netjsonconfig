@@ -108,4 +108,4 @@ Send pull request
 -----------------
 
 Now is time to push your changes to github and open a `pull request
-<https://github.com/openwisp/netjsonconfig/pulls>`_!
+<https://github.com/burlesquer/netjsonconfig/pulls>`_!

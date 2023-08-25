@@ -1,8 +1,8 @@
 netjsonconfig
 =============
 
-.. image:: https://github.com/openwisp/netjsonconfig/workflows/Netjsonconfig%20CI%20Build/badge.svg?branch=master
-   :target: https://github.com/openwisp/netjsonconfig/actions?query=workflow%3A%22Netjsonconfig+CI+Build%22
+.. image:: https://github.com/burlesquer/netjsonconfig/workflows/Netjsonconfig%20CI%20Build/badge.svg?branch=master
+   :target: https://github.com/burlesquer/netjsonconfig/actions?query=workflow%3A%22Netjsonconfig+CI+Build%22
 
 .. image:: https://coveralls.io/repos/openwisp/netjsonconfig/badge.svg
   :target: https://coveralls.io/r/openwisp/netjsonconfig
@@ -28,7 +28,7 @@ netjsonconfig
 ------------
 
 Netjsonconfig is a part of the `OpenWISP project <http://openwisp.org>`_ and it's the official
-configuration engine of `OpenWISP 2 <https://github.com/openwisp/ansible-openwisp2>`_.
+configuration engine of `OpenWISP 2 <https://github.com/burlesquer/ansible-openwisp2>`_.
 
 .. image:: http://netjsonconfig.openwisp.org/en/latest/_images/openwisp.org.svg
   :target: http://openwisp.org
@@ -36,12 +36,12 @@ configuration engine of `OpenWISP 2 <https://github.com/openwisp/ansible-openwis
 **netjsonconfig** is a python library that converts `NetJSON <http://netjson.org>`_
 *DeviceConfiguration* objects into real router configurations that can be installed
 on systems like `OpenWRT <http://openwrt.org>`_, `LEDE <https://www.lede-project.org/>`_
-or `OpenWisp Firmware <https://github.com/openwisp/OpenWISP-Firmware>`_.
+or `OpenWisp Firmware <https://github.com/burlesquer/OpenWISP-Firmware>`_.
 
 Its main features are listed below for your reference:
 
 * `OpenWRT <http://openwrt.org>`_ / `LEDE <https://www.lede-project.org/>`_ support
-* `OpenWisp Firmware <https://github.com/openwisp/OpenWISP-Firmware>`_ support
+* `OpenWisp Firmware <https://github.com/burlesquer/OpenWISP-Firmware>`_ support
 * `OpenVPN <https://openvpn.net>`_ support
 * `WireGuard <https://www.wireguard.com/>`_ support
 * Possibility to support more firmwares via custom backends
@@ -54,7 +54,7 @@ Its main features are listed below for your reference:
 * **Command line utility**: easy to use from shell scripts or from other programming languages
 
 `Documentation <http://netjsonconfig.openwisp.org/>`_ |
-`Change log <https://github.com/openwisp/netjsonconfig/blob/master/CHANGES.rst>`_ |
+`Change log <https://github.com/burlesquer/netjsonconfig/blob/master/CHANGES.rst>`_ |
 `Support channels <http://openwisp.org/support.html>`_ |
-`Issue Tracker <https://github.com/openwisp/netjsonconfig/issues>`_ |
-`License <https://github.com/openwisp/netjsonconfig/blob/master/LICENSE>`_
+`Issue Tracker <https://github.com/burlesquer/netjsonconfig/issues>`_ |
+`License <https://github.com/burlesquer/netjsonconfig/blob/master/LICENSE>`_
