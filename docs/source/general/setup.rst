@@ -27,7 +27,7 @@ The second option is to install via pip using git
 
 .. code-block:: shell
 
-    pip install -e git+git://github.com/openwisp/netjsonconfig#egg=netjsonconfig
+    pip install -e git+git://github.com/burlesquer/netjsonconfig#egg=netjsonconfig
 
 Install git fork for contributing
 ---------------------------------
